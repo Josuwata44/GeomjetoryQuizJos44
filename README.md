@@ -1,0 +1,3 @@
+# GeomjetoryQuizJos44
+
+このアプリはGeometryReaderを使ったアプリです。ワンピースクイズアプリです。１０問正解するとスコアが表示されます。
